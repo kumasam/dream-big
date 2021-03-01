@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-image: url(https://dontpaniclabs.com/wp-content/uploads/2017/08/cosmos_featured.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    color: red;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+}
+
+ /* Another solution */
+ 
+ /* .container h1{
+    color: red;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%,-50%);
+    font-size: 60px;
+    
+} */
